@@ -1,0 +1,10 @@
+{
+	"Comment": {
+		"prefix": "com",
+		"body": [
+			"<!--  $1  -->",
+			"$2"
+		],
+		"description": "Singe comment"
+	}
+}

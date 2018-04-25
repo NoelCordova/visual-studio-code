@@ -1,0 +1,18 @@
+{
+    // Editor
+    "files.autoSave": "onWindowChange",
+    "editor.fontFamily": "Consolas",
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "none",
+
+    // Terminal
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+    // Theme
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+}
