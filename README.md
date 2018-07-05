@@ -2,7 +2,9 @@
 
 My personal settings for the best IDE in the world! (in my opinion)
 
-Download: [https://code.visualstudio.com/](https://code.visualstudio.com "VSCode")
+Download: [https://code.visualstudio.com](https://code.visualstudio.com "Download")
+
+Docs: [https://code.visualstudio.com/docs](https://code.visualstudio.com/docs "Download")
 
 <br>
 
