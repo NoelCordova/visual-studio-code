@@ -12,9 +12,20 @@
     "window.menuBarVisibility": "toggle",
 
     // Terminal
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    // "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
 
     // Theme
-    "workbench.iconTheme": "eq-material-theme-icons",
-    "workbench.colorTheme": "Andromeda"
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Andromeda",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vsicons.projectDetection.autoReload": true,
+    "indentRainbow.colors": [
+        "rgba(220, 20, 60, 0.1)",
+        "rgba(218, 247, 166, 0.1)",
+        "rgba(255, 195, 0, 0.1)",
+        "rgba(255, 87, 51, 0.1)",
+        "rgba(199, 0, 57, 0.1)",
+        "rgba(144, 12, 63, 0.1)"
+    ],
 }
