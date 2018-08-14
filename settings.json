@@ -10,6 +10,7 @@
     "workbench.startupEditor": "none",
     "workbench.sideBar.location": "right",
     "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
 
     // Terminal
     // "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
@@ -17,15 +18,7 @@
 
     // Theme
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Andromeda",
     "liveServer.settings.donotShowInfoMsg": true,
     "vsicons.projectDetection.autoReload": true,
-    "indentRainbow.colors": [
-        "rgba(220, 20, 60, 0.1)",
-        "rgba(218, 247, 166, 0.1)",
-        "rgba(255, 195, 0, 0.1)",
-        "rgba(255, 87, 51, 0.1)",
-        "rgba(199, 0, 57, 0.1)",
-        "rgba(144, 12, 63, 0.1)"
-    ],
+    "workbench.colorTheme": "One Dark Pro Vivid",
 }
